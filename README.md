@@ -8,7 +8,7 @@
 
   > Somebody once told me: keep learning no matter what :) 
 
-  > I was studying for the AWS Cloud Practitioner Exam. Here is my studying path that I designed and followed to pass the exam :)
+  > I was studying for the AWS Cloud Practitioner Exam. Here is my study path that I designed and followed to pass the exam :)
 
 
 ## Recommendations
